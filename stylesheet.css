@@ -12,7 +12,7 @@ html{
 }
 /* Utility Classes */
 .h-primary{
-    padding: 32px;
+    padding: 65px;
     align-items: center;
     font-size: 3.8rem;
     font-family: 'Bree Serif', serif;
@@ -177,7 +177,7 @@ html{
 #contact::before{
     content:"";
     position: absolute;
-    background:url(/contact.jfif) no-repeat center center/cover;
+    background:url(contact.jfif) no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
